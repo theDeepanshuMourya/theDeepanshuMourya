@@ -1,8 +1,5 @@
 # Hello, developers! 👋
 
-<!--
-**theDeepanshuMourya/theDeepanshuMourya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm Deepanshu Mourya, a **Full Stack Developer** & **Machine Learning Enthusiast**, based in New Delhi, India, who likes to create amazing things!
 
 ## 🔭 What do I do?
