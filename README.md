@@ -10,10 +10,8 @@ I'm Deepanshu Mourya, a **Full Stack Developer** & **Machine Learning Enthusiast
   ✔️ I am currently looking for full-time Software Engineer roles with proficiency in Java, Java EE, Spring, and Hibernate.
 
   ✔️ Technologies Known:
-  
-    - Java, Java EE, Python, HTML, CSS, Spring Boot, Hibernate, Maven
-    
-    - Amazon Web Services (AWS), Apache Tomcat, Tensorflow, Keras, Git, MySQL
+  - Java, Java EE, Python, HTML, CSS, Spring Boot, Hibernate, Maven
+  - Amazon Web Services (AWS), Apache Tomcat, Tensorflow, Keras, Git, MySQL
 
 ## 📫 How to reach me?
 If you would like to connect with me, you can find me on [LinkedIn](https://www.linkedin.com/in/thedeepanshumourya/). You can also ask me anything.
