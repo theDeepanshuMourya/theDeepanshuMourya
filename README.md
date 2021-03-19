@@ -7,7 +7,7 @@ I'm Deepanshu Mourya, a **Full Stack Developer** & **Machine Learning Enthusiast
 
   ✔️ I am a quick learner who's always open to learn and unlearn at the same time. Unlearning as in letting go of outdated practices and ideas and moving on to more     advanced procedures.
 
-  ✔️ I am currently looking for full-time Software Engineer roles with proficiency in Java, Java EE, Spring, and Hibernate.
+  ✔️ Currently working as a part of the Delivery team and contributing to the retail banking chat-bot based on Java, Spring Boot, Hibernate, Apache Camel Route and Redis Server.
 
   ✔️ Technologies Known:
   - Java, Java EE, Python, HTML, CSS, Spring Boot, Hibernate, Maven
